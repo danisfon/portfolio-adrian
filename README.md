@@ -15,7 +15,7 @@ O portfólio está dividido nas seguintes seções principais:
 
 - **HTML**: Estrutura básica da página.
 - **CSS**: Estilização do layout e design visual.
-- **Figma**: Ferramenta usada para o design do layout.
+- **JavaScript**: Funcionalidades interativas (por exemplo, animações, formulários dinâmicos).
 
 >[!IMPORTANT]
 >
